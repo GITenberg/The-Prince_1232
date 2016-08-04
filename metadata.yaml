@@ -1,0 +1,151 @@
+_repo: The-Prince_1232
+_version: 0.0.1
+alternative_title: Il Principe. English
+contributor:
+  translator:
+    agent_name: Marriott, W. K. (William Kenaz)
+    alias: Marriott, William K.
+    deathdate: 1927
+    gutenberg_agent_id: '564'
+    url: http://www.gutenberg.org/2009/agents/564
+creator:
+  author:
+    agent_name: Machiavelli, Niccolò
+    alias: Machiavelli, Niccolo
+    birthdate: 1469
+    deathdate: 1527
+    gutenberg_agent_id: '563'
+    url: http://www.gutenberg.org/2009/agents/563
+    wikipedia: http://en.wikipedia.org/wiki/Niccolò_Machiavelli
+description: "The Prince (Italian: Il Principe [il ˈprintʃipe]) is a 16th-century\
+  \ political treatise by the Italian diplomat and political theorist Niccolò Machiavelli.\
+  \ From correspondence a version appears to have been distributed in 1513, using\
+  \ a Latin title, De Principatibus (About Principalities). However, the printed version\
+  \ was not published until 1532, five years after Machiavelli's death. This was done\
+  \ with the permission of the Medici pope Clement VII, but \"long before then, in\
+  \ fact since the first appearance of The Prince in manuscript, controversy had swirled\
+  \ about his writings\".\nAlthough it was written as if it were a traditional work\
+  \ in the mirrors for princes style, it is generally agreed that it was especially\
+  \ innovative. This is only partly because it was written in the vernacular Italian\
+  \ rather than Latin, a practice which had become increasingly popular since the\
+  \ publication of Dante's Divine Comedy and other works of Renaissance literature.\n\
+  The Prince is sometimes claimed to be one of the first works of modern philosophy,\
+  \ especially modern political philosophy, in which the effective truth is taken\
+  \ to be more important than any abstract ideal. It was also in direct conflict with\
+  \ the dominant Catholic and scholastic doctrines of the time concerning politics\
+  \ and ethics.\nAlthough it is relatively short, the treatise is the most remembered\
+  \ of Machiavelli's works and the one most responsible for bringing the word \"Machiavellian\"\
+  \ into usage as a pejorative. It even contributed to the modern negative connotations\
+  \ of the words \"politics\" and \"politician\" in western countries. In terms of\
+  \ subject matter it overlaps with the much longer Discourses on Livy, which was\
+  \ written a few years later. In its use of near-contemporary Italians as examples\
+  \ of people who perpetrated criminal deeds for politics, another lesser-known work\
+  \ by Machiavelli which The Prince has been compared to is the Life of Castruccio\
+  \ Castracani.\nThe descriptions within The Prince have the general theme of accepting\
+  \ that the aims of princes—such as glory and survival—can justify the use of immoral\
+  \ means to achieve those ends:\n\nHe who neglects what is done for what ought to\
+  \ be done, sooner effects his ruin than his preservation.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Politics
+- Harvard Classics
+- Philosophy
+- Banned Books from Anne Haight's list
+gutenberg_issued: '2006-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1232'
+  wikidata: Q131719
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'State, The -- Early works to 1800'
+- !lcsh 'Political ethics -- Early works to 1800'
+- !lcsh 'Political science -- Philosophy -- Early works to 1800'
+- !lcc 'JC'
+- GITenberg
+tableOfContents: The Prince -- Description of the methods adopted by the Duke Valentino
+  when murdering Vitellozzo Vitelli, Oliverotto da Fermo, the Signor Pagolo, and the
+  Duke di Gravina Orsini -- The life of Castruccio Castracani of Lucca.
+title: The Prince
+url: http://www.gutenberg.org/ebooks/1232
+wikipedia:
+- https://fi.wikipedia.org/wiki/Ruhtinas_(kirja)
+- https://eo.wikipedia.org/wiki/La_Princo
+- https://pa.wikipedia.org/wiki/%E0%A8%A6_%E0%A8%AA%E0%A9%8D%E0%A8%B0%E0%A8%BF%E0%A9%B0%E0%A8%B8
+- https://sl.wikipedia.org/wiki/Vladar_(Machiavelli)
+- https://ms.wikipedia.org/wiki/Si_Putera
+- https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DB%8C%D8%A7%D8%B1_(%DA%A9%D8%AA%D8%A7%D8%A8)
+- https://ru.wikisource.org/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%8C_(%D0%9C%D0%B0%D0%BA%D0%B8%D0%B0%D0%B2%D0%B5%D0%BB%D0%BB%D0%B8)
+- https://als.wikipedia.org/wiki/Der_F%C3%BCrst
+- https://vi.wikipedia.org/wiki/Qu%C3%A2n_V%C6%B0%C6%A1ng_(s%C3%A1ch)
+- https://en.wikisource.org/wiki/The_Prince
+- https://hy.wikipedia.org/wiki/%D5%8F%D5%AB%D6%80%D5%A1%D5%AF%D5%A1%D5%AC%D5%A8
+- https://ku.wikipedia.org/wiki/M%C3%AEr_(pirt%C3%BBk)
+- https://el.wikipedia.org/wiki/%CE%9F_%CE%97%CE%B3%CE%B5%CE%BC%CF%8C%CE%BD%CE%B1%CF%82
+- https://az.wikipedia.org/wiki/%C5%9Eahzad%C9%99_(kitab)
+- https://fr.wikisource.org/wiki/Le_Prince
+- https://it.wikisource.org/wiki/Opera:Il_Principe
+- https://gl.wikipedia.org/wiki/O_pr%C3%ADncipe
+- https://it.wikibooks.org/wiki/Il_Principe
+- https://ja.wikipedia.org/wiki/%E5%90%9B%E4%B8%BB%E8%AB%96
+- https://pt.wikipedia.org/wiki/O_Pr%C3%ADncipe
+- https://ml.wikipedia.org/wiki/%E0%B4%A6_%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B5%BB%E0%B4%B8%E0%B5%8D
+- https://scn.wikipedia.org/wiki/Lu_Pr%C3%ACncipi
+- https://de.wikisource.org/wiki/Der_F%C3%BCrst
+- https://bs.wikipedia.org/wiki/Vladar_(Machiavelli)
+- https://es.wikipedia.org/wiki/El_Pr%C3%ADncipe
+- https://pt.wikiquote.org/wiki/Pr%C3%ADncipe,_O
+- https://sk.wikipedia.org/wiki/Vlad%C3%A1r_(Niccol%C3%B2_Machiavelli)
+- https://en.wikipedia.org/wiki/The_Prince
+- https://ga.wikipedia.org/wiki/An_Prionsa
+- https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%8C_(%D0%9C%D0%B0%D0%BA%D0%B8%D0%B0%D0%B2%D0%B5%D0%BB%D0%BB%D0%B8)
+- https://jv.wikipedia.org/wiki/Il_Principe
+- https://ro.wikipedia.org/wiki/Principele
+- https://ko.wikipedia.org/wiki/%EA%B5%B0%EC%A3%BC%EB%A1%A0
+- https://ht.wikipedia.org/wiki/Prens_la
+- https://et.wikipedia.org/wiki/Valitseja_(Il_Principe)
+- https://fr.wikipedia.org/wiki/Le_Prince
+- https://sh.wikipedia.org/wiki/Il_Principe
+- https://zh.wikipedia.org/wiki/%E5%90%9B%E4%B8%BB%E8%AE%BA
+- https://he.wikisource.org/wiki/%D7%94%D7%A0%D7%A1%D7%99%D7%9A
+- https://ast.wikipedia.org/wiki/El_Pr%C3%ADncipe
+- https://no.wikipedia.org/wiki/Fyrsten
+- https://hi.wikipedia.org/wiki/%E0%A4%A6_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%B8
+- https://pl.wikipedia.org/wiki/Ksi%C4%85%C5%BC%C4%99_(utw%C3%B3r)
+- https://da.wikipedia.org/wiki/Fyrsten
+- https://simple.wikipedia.org/wiki/The_Prince
+- https://es.wikisource.org/wiki/El_Pr%C3%ADncipe
+- https://be-tarask.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B0%D0%B4%D0%B0%D1%80
+- https://sv.wikipedia.org/wiki/Fursten
+- https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B8%81%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87
+- https://be.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B0%D0%B4%D0%B0%D1%80,_%D0%9D%D1%96%D0%BA%D0%BE%D0%BB%D0%B0_%D0%9C%D0%B0%D0%BA%D1%96%D1%8F%D0%B2%D0%B5%D0%BB%D1%96
+- https://hu.wikipedia.org/wiki/A_fejedelem
+- https://is.wikipedia.org/wiki/Furstinn
+- https://mk.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D0%BE%D1%82
+- https://en.wikibooks.org/wiki/The_Prince
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1_(%D9%83%D8%AA%D8%A7%D8%A8)
+- https://nl.wikipedia.org/wiki/De_vorst
+- https://id.wikipedia.org/wiki/Sang_Penguasa
+- https://ckb.wikipedia.org/wiki/%D9%85%DB%8C%D8%B1_(%DA%A9%D8%AA%DB%8E%D8%A8)
+- https://cs.wikipedia.org/wiki/Vlada%C5%99
+- https://oc.wikipedia.org/wiki/Lo_Prince
+- https://tl.wikipedia.org/wiki/Ang_Prinsipe
+- https://de.wikipedia.org/wiki/Der_F%C3%BCrst
+- https://eu.wikipedia.org/wiki/Printzea
+- https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B5%D1%86%D1%8C_(%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0)
+- https://lv.wikipedia.org/wiki/Valdnieks_(gr%C4%81mata)
+- https://en.wikiquote.org/wiki/The_Prince
+- https://cy.wikipedia.org/wiki/Il_Principe
+- https://bg.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8F%D1%82
+- https://pl.wikisource.org/wiki/Miko%C5%82aja_Machiawella_Traktat_o_Ksi%C4%99ciu
+- https://it.wikipedia.org/wiki/Il_Principe
+- https://la.wikipedia.org/wiki/De_principe
+- https://hr.wikipedia.org/wiki/Vladar_(Machiavelli)
+- https://cs.wikiquote.org/wiki/D%C3%ADlo:Vlada%C5%99
+- https://ca.wikipedia.org/wiki/El_Pr%C3%ADncep
+- https://he.wikipedia.org/wiki/%D7%94%D7%A0%D7%A1%D7%99%D7%9A
+- https://tr.wikipedia.org/wiki/Prens_(kitap)
+- https://sr.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B0%D0%BB%D0%B0%D1%86
+- https://es.wikiquote.org/wiki/El_pr%C3%ADncipe
