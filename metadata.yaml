@@ -1,5 +1,5 @@
 _repo: The-Prince_1232
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Il Principe. English
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1927
     gutenberg_agent_id: '564'
     url: http://www.gutenberg.org/2009/agents/564
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Machiavelli, Niccolò
@@ -45,6 +48,8 @@ description: "The Prince (Italian: Il Principe [il ˈprintʃipe]) is a 16th-cent
   \ that the aims of princes—such as glory and survival—can justify the use of immoral\
   \ means to achieve those ends:\n\nHe who neglects what is done for what ought to\
   \ be done, sooner effects his ruin than his preservation.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1232#The-Prince
 gutenberg_bookshelf:
 - Politics
 - Harvard Classics
