@@ -13,7 +13,7 @@ Author: Nicolo Machiavelli
 Translator: W. K. Marriott
 
 Release Date: February 11, 2006 [EBook #1232]
-[This file last updated October 19, 2010]
+Last updated: August 26, 2016
 
 Language: English
 
@@ -694,7 +694,7 @@ happens in this, as the physicians say it happens in hectic fever,
 that in the beginning of the malady it is easy to cure but difficult to
 detect, but in the course of time, not having been either detected or
 treated in the beginning, it becomes easy to detect but difficult to
-cure. This it happens in affairs of state, for when the evils that arise
+cure. Thus it happens in affairs of state, for when the evils that arise
 have been foreseen (which it is only given to a wise man to see), they
 can be quickly redressed, but when, through not having been foreseen,
 they have been permitted to grow in a way that every one can see them,
@@ -704,7 +704,7 @@ come to a head, for they knew that war is not to be avoided, but is only
 to be put off to the advantage of others; moreover they wished to fight
 with Philip and Antiochus in Greece so as not to have to do it in Italy;
 they could have avoided both, but this they did not wish; nor did that
-ever please them which is for ever in the mouths of the wise ones of our
+ever please them which is forever in the mouths of the wise ones of our
 time:--Let us enjoy the benefits of the time--but rather the benefits of
 their own valour and prudence, for time drives everything before it, and
 is able to bring with it good as well as evil, and evil as well as good.
@@ -760,7 +760,7 @@ Italy.
 
 And as if it were not enough to have aggrandized the Church, and
 deprived himself of friends, he, wishing to have the kingdom of Naples,
-divides it with the King of Spain, and where he was the prime arbiter in
+divided it with the King of Spain, and where he was the prime arbiter in
 Italy he takes an associate, so that the ambitious of that country and
 the malcontents of his own should have somewhere to shelter; and whereas
 he could have left in the kingdom his own pensioner as king, he drove
@@ -818,7 +818,7 @@ was usually called, occupied the Romagna, and on Cardinal Rouen
 observing to me that the Italians did not understand war, I replied
 to him that the French did not understand statecraft, meaning that
 otherwise they would not have allowed the Church to reach such
-greatness. And in fact is has been seen that the greatness of the Church
+greatness. And in fact it has been seen that the greatness of the Church
 and of Spain in Italy has been caused by France, and her ruin may be
 attributed to them. From this a general rule is drawn which never or
 rarely fails: that he who is the cause of another becoming powerful
@@ -935,7 +935,7 @@ therefore he who would keep a city accustomed to freedom will hold it
 more easily by the means of its own citizens than in any other way.
 
 There are, for example, the Spartans and the Romans. The Spartans held
-Athens and Thebes, establishing there an oligarchy, nevertheless they
+Athens and Thebes, establishing there an oligarchy; nevertheless they
 lost them. The Romans, in order to hold Capua, Carthage, and Numantia,
 dismantled them, and did not lose them. They wished to hold Greece as
 the Spartans held it, making it free and permitting its laws, and did
@@ -1962,7 +1962,7 @@ disadvantageous; for losing, one is undone, and winning, one is their
 captive.
 
      (*) Ferdinand V (F. II of Aragon and Sicily, F. III of
-     Naples), surnamed "The Catholic," born 1542, died 1516.
+     Naples), surnamed "The Catholic," born 1452, died 1516.
 
 And although ancient histories may be full of examples, I do not wish
 to leave this recent one of Pope Julius the Second, the peril of which
@@ -3006,7 +3006,7 @@ whoever, trusting in them, cares little about being hated by the people.
 
      (*) Catherine Sforza, a daughter of Galeazzo Sforza and
      Lucrezia Landriani, born 1463, died 1509. It was to the
-     Countess of Forli that Machiavelli was sent as envy on 1499.
+     Countess of Forli that Machiavelli was sent as envoy on 1499.
      A letter from Fortunati to the countess announces the
      appointment: "I have been with the signori," wrote
      Fortunati, "to learn whom they would send and when. They
@@ -3267,7 +3267,7 @@ But if a prince who is not inexperienced should take counsel from more
 than one he will never get united counsels, nor will he know how to
 unite them. Each of the counsellors will think of his own interests, and
 the prince will not know how to control them or to see through them. And
-they are not to found otherwise, because men will always prove untrue
+they are not to be found otherwise, because men will always prove untrue
 to you unless they are kept honest by constraint. Therefore it must be
 inferred that good counsels, whencesoever they come, are born of
 the wisdom of the prince, and not the wisdom of the prince from good
@@ -3612,7 +3612,7 @@ the Prince of Siena. Here were discussed the power and courage of the
 duke and the necessity of curbing his ambitions, which might otherwise
 bring danger to the rest of being ruined. And they decided not to
 abandon the Bentivogli, but to strive to win over the Florentines; and
-they send their men to one place and another, promising to one party
+they sent their men to one place and another, promising to one party
 assistance and to another encouragement to unite with them against the
 common enemy. This meeting was at once reported throughout all Italy,
 and those who were discontented under the duke, among whom were the
@@ -3735,7 +3735,7 @@ of December at the Metauro with his men, and having sent a cavalcade
 of about two hundred horsemen before him, he then moved forward the
 infantry, whom he accompanied with the rest of the men-at-arms.
 
-Fano and Sinigalia are two cities of La Marca situate on the shore of
+Fano and Sinigalia are two cities of La Marca situated on the shore of
 the Adriatic Sea, fifteen miles distant from each other, so that he who
 goes towards Sinigalia has the mountains on his right hand, the bases
 of which are touched by the sea in some places. The city of Sinigalia is
@@ -3943,7 +3943,7 @@ expedition, acquiring greater reputation than any other captain, and
 his name and fame were known, not only in Pavia, but throughout all
 Lombardy.
 
-Castruccio, having returned to Lucca in far higher estimation that he
+Castruccio, having returned to Lucca in far higher estimation than he
 left it, did not omit to use all the means in his power to gain as many
 friends as he could, neglecting none of those arts which are necessary
 for that purpose. About this time Messer Francesco died, leaving a son
@@ -4055,7 +4055,7 @@ Pier Agnolo Micheli, a man of great repute and abilities in Lucca, the
 murderer of whom fled to the house of Castruccio for refuge. On the
 sergeants of the captain going to arrest the murderer, they were driven
 off by Castruccio, and the murderer escaped. This affair coming to
-the knowledge of Uguccione, who was than at Pisa, it appeared to him a
+the knowledge of Uguccione, who was then at Pisa, it appeared to him a
 proper opportunity to punish Castruccio. He therefore sent for his
 son Neri, who was the governor of Lucca, and commissioned him to take
 Castruccio prisoner at a banquet and put him to death. Castruccio,
@@ -4350,7 +4350,7 @@ anxiety, and despairing of preserving their liberty, they sent envoys to
 King Ruberto of Naples, offering him the dominion of their city; and he,
 knowing of what immense importance the maintenance of the Guelph cause
 was to him, accepted it. He agreed with the Florentines to receive from
-them a yearly tribute of two hundred thousand florins, and he send his
+them a yearly tribute of two hundred thousand florins, and he sent his
 son Carlo to Florence with four thousand horsemen.
 
 Shortly after this the Florentines were relieved in some degree of the
@@ -4523,7 +4523,7 @@ from that gratitude which I owed to the children of thy father. Thus I
 leave thee a vast estate, of which I am well content, but I am deeply
 concerned, inasmuch as I leave it thee unsettled and insecure. Thou hast
 the city of Lucca on thy hands, which will never rest contented under
-they government. Thou hast also Pisa, where the men are of nature
+thy government. Thou hast also Pisa, where the men are of nature
 changeable and unreliable, who, although they may be sometimes held
 in subjection, yet they will ever disdain to serve under a Lucchese.
 Pistoia is also disloyal to thee, she being eaten up with factions and
@@ -4546,7 +4546,7 @@ and security. It is of the greatest important in this world that a man
 should know himself, and the measure of his own strength and means; and
 he who knows that he has not a genius for fighting must learn how to
 govern by the arts of peace. And it will be well for thee to rule
-they conduct by my counsel, and to learn in this way to enjoy what my
+thy conduct by my counsel, and to learn in this way to enjoy what my
 life-work and dangers have gained; and in this thou wilt easily succeed
 when thou hast learnt to believe that what I have told thee is true. And
 thou wilt be doubly indebted to me, in that I have left thee this realm
@@ -4590,11 +4590,11 @@ said: "You would not have given more than a penny." "That is true,"
 answered the friend. Then said Castruccio to him: "A ducat is much less
 to me." Having about him a flatterer on whom he had spat to show that
 he scorned him, the flatterer said to him: "Fisherman are willing to let
-the waters of the sea saturate them in order that they make take a few
+the waters of the sea saturate them in order that they may take a few
 little fishes, and I allow myself to be wetted by spittle that I may
 catch a whale"; and this was not only heard by Castruccio with patience
 but rewarded. When told by a priest that it was wicked for him to live
-so sumptuously, Castruccio said: "If that be a vice than you should
+so sumptuously, Castruccio said: "If that be a vice then you should
 not fare so splendidly at the feasts of our saints." Passing through a
 street he saw a young man as he came out of a house of ill fame blush at
 being seen by Castruccio, and said to him: "Thou shouldst not be ashamed
@@ -4669,7 +4669,7 @@ save his soul, he answered that it had not, because it appeared strange
 to him that Fra Lazerone should go to Paradise and Uguccione della
 Faggiuola to the Inferno. He was once asked when should a man eat to
 preserve his health, and replied: "If the man be rich let him eat
-when he is hungry; if he be poor, then when he can." Seeing on of his
+when he is hungry; if he be poor, then when he can." Seeing one of his
 gentlemen make a member of his family lace him up, he said to him: "I
 pray God that you will let him feed you also." Seeing that someone had
 written upon his house in Latin the words: "May God preserve this house
@@ -4690,7 +4690,7 @@ prince. And as he was surrounded by many evidences of his good fortune,
 so he also desired to have near him some memorials of his bad fortune;
 therefore the manacles with which he was chained in prison are to be
 seen to this day fixed up in the tower of his residence, where they were
-placed by him to testify for ever to his days of adversity. As in
+placed by him to testify forever to his days of adversity. As in
 his life he was inferior neither to Philip of Macedon, the father of
 Alexander, nor to Scipio of Rome, so he died in the same year of his
 age as they did, and he would doubtless have excelled both of them had
